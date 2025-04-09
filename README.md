@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+Hyeona's+GitHub;I'm+waiting+for+your+feedback)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+Siwoo's+GitHub;I'm+waiting+for+your+feedback)](https://git.io/typing-svg)
 ## Hi there 👋  
 <b color="#7C0072">Contact me HERE!<b/>
  <a href="mailto:sha0209@dgu.ac.kr">
