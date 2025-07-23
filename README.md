@@ -5,7 +5,7 @@
    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=leegm1798@naver.com"/>
 </a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=dltldn333&show_icons=true&theme=ambient_gradient">
+<img src="https://github-readme-stats.vercel.app/api?username=dltldn333&show_icons=true&theme=tokyonight">
 <br/><br/><br/>
 
 ## Skills ⚒️
