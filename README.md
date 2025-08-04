@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+Siwoo's+GitHub;I'm+waiting+for+your+feedback)](https://git.io/typing-svg)
 ## Hi there 👋  
 <b color="#7C0072">Contact me HERE!<b/>
- <a href="mailto:sha0209@dgu.ac.kr">
-   <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=leegm1798@naver.com"/>
+ <a href="mailto:dltldn33@gmail.com">
+   <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=dltldn333@gmail.com"/>
 </a>
 
 <img src="https://github-readme-stats.vercel.app/api?username=dltldn333&show_icons=true&theme=tokyonight">
