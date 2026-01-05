@@ -4,12 +4,16 @@ The Interface Visionary, Logic Architect, Open-Core Soul.
 <br/><br/><br/>
 
 ## Skills ⚒️
-### Front-End
-<div>
- <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
- <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"> <br />
- <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">
-</div>  
+### 🛠 Technology Stack
+
+#### [ Interface]
+![Skill Icons](https://skillicons.dev/icons?i=npm,typescript,react,threejs)
+
+#### [ Logic & System ]
+![Skill Icons](https://skillicons.dev/icons?i=c,python,linux,bash)
+
+#### [ Tools & Environments ]
+![Skill Icons](https://skillicons.dev/icons?i=git,github,docker)
 
 
 <br/><br/><br/>
