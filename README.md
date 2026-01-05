@@ -1,7 +1,7 @@
 # Hi there, I'm siwoo 👋
 The Interface Visionary, Logic Architect, Open-Core Soul.
 
-<br/><br/><br/>
+<br/>
 
 ### Technology Stack
 
@@ -15,7 +15,7 @@ The Interface Visionary, Logic Architect, Open-Core Soul.
 ![Skill Icons](https://skillicons.dev/icons?i=git,github,docker)
 
 
-<br/><br/><br/>
+<br/>
  
 ## OS
 ![Os Icons](https://skillicons.dev/icons?i=ubuntu,apple,linux)
