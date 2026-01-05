@@ -3,7 +3,7 @@ The Interface Visionary, Logic Architect, Open-Core Soul.
 
 <br/>
 
-### Technology Stack
+## Technology Stack
 
 #### [ Interface]
 ![Skill Icons](https://skillicons.dev/icons?i=npm,typescript,react,threejs)
