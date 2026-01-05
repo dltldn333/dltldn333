@@ -3,8 +3,7 @@ The Interface Visionary, Logic Architect, Open-Core Soul.
 
 <br/><br/><br/>
 
-## Skills ⚒️
-### 🛠 Technology Stack
+### Technology Stack
 
 #### [ Interface]
 ![Skill Icons](https://skillicons.dev/icons?i=npm,typescript,react,threejs)
@@ -18,6 +17,6 @@ The Interface Visionary, Logic Architect, Open-Core Soul.
 
 <br/><br/><br/>
  
-## OS 💻
-![Os Icons](https://skillicons.dev/icons?i=ubuntu,apple,linux,bash,cpp,c,rust)
+## OS
+![Os Icons](https://skillicons.dev/icons?i=ubuntu,apple,linux)
 <br/><br/><br/>
