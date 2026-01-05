@@ -19,6 +19,5 @@ The Interface Visionary, Logic Architect, Open-Core Soul.
 <br/><br/><br/>
  
 ## OS 💻
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-
+![Os Icons](https://skillicons.dev/icons?i=ubuntu,apple,linux,bash,cpp,c,rust)
 <br/><br/><br/>
