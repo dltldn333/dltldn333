@@ -3,7 +3,10 @@ The Interface Visionary, Logic Architect, Open-Core Soul.
 
 <br/>
 
-## Technology Stack
+## Author of
+<img src="/mirage-engine-logo.png" ref="https://github.com/dltldn333/MirageEngine" width="50">
+
+## User of
 
 #### [ Interface]
 ![Skill Icons](https://skillicons.dev/icons?i=npm,typescript,react,threejs)
