@@ -8,6 +8,8 @@ The Interface Visionary, Logic Architect, Open-Core Soul.
  <img src="/mirage-engine-logo.png" width="50">
 </a>
 
+<br />
+
 ## User of
 
 #### [ Interface]
