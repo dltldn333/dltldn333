@@ -4,7 +4,9 @@ The Interface Visionary, Logic Architect, Open-Core Soul.
 <br/>
 
 ## Author of
-<img src="/mirage-engine-logo.png" ref="https://github.com/dltldn333/MirageEngine" width="50">
+<a href="https://github.com/dltldn333/MirageEngine" >
+ <img src="/mirage-engine-logo.png" width="50">
+</a>
 
 ## User of
 
