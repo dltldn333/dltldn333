@@ -1,8 +1,6 @@
 # Hi there, I'm siwoo 👋
 The Interface Visionary, Logic Architect, Open-Core Soul.
 
-<br/>
-
 ## Author of
 #### [ NPM ]
 <a href="https://github.com/dltldn333/MirageEngine" >
