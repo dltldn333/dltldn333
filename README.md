@@ -1,5 +1,5 @@
-# Hi there, I'm siwoo 👋
-The Interface Visionary, Logic Architect, Open-Core Soul.
+# I'm siwoo 😎
+Just Architect
 
 ## Author of
 #### [ NPM ]
