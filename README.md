@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm siwoo 😎
+# Hi, I'm siwoo
 
 **Just Architect**
 
@@ -10,22 +10,29 @@
 
 ---
 
-## 🛠️ Author of
+## Author of
+
+### Tool
 
 <table>
   <tr>
-    <td align="center" width="200">
-      <sub><b>[ NPM ]</b></sub><br><br>
-      <a href="https://github.com/dltldn333/MirageEngine">
-        <img src="/mirage-engine-logo.png" width="64" alt="MirageEngine"><br>
-        <b>MirageEngine</b>
-      </a>
-    </td>
-    <td align="center" width="200">
-      <sub><b>[ Tool ]</b></sub><br><br>
+    <td align="center" width="120">
       <a href="https://github.com/dltldn333/maestro">
         <img src="/maestro-logo.svg" width="64" alt="Maestro"><br>
         <b>Maestro</b>
+      </a>
+    </td>
+  </tr>
+</table>
+
+### NPM
+
+<table>
+  <tr>
+    <td align="center" width="120">
+      <a href="https://github.com/dltldn333/MirageEngine">
+        <img src="/mirage-engine-logo.png" width="64" alt="MirageEngine"><br>
+        <b>MirageEngine</b>
       </a>
     </td>
   </tr>
