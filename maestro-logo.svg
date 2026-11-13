@@ -8,7 +8,7 @@
       <feColorMatrix values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 24 -11"/>
     </filter>
   </defs>
-  <g filter="url(#maestro-goo)">
+  <g filter="url(#maestro-goo)" fill="#fff">
     <line x1="16" y1="13" x2="7" y2="23" stroke="#fff" stroke-width="3.64" stroke-linecap="round"/>
     <circle cx="16" cy="13" r="5.2"/><circle cx="7" cy="23" r="5.2"/>
     <line x1="32" y1="13" x2="41" y2="23" stroke="#fff" stroke-width="3.64" stroke-linecap="round"/>
